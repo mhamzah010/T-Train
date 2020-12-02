@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Train 5.0" id="4B4B7CB8-E2E7-9E53-945B-6F0600BBA8A9" version="3.5">
+<createdBy>hasan</createdBy>
+<createdTime>2020-09-30 12:32:57 UTC</createdTime>
+<ownerDesignName>Train</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>4B4B7CB8-E2E7-9E53-945B-6F0600BBA8A9</designId>
+</OSDM_Design>
